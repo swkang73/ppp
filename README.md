@@ -1,4 +1,4 @@
-# Protein Prediction Project
+# Hypergraph Convolution Networks for Drug-Drug Interaction Prediction on the OGB-DDI Dataset
 Winter 2021 CS224W Final Proj
 Jay Liu (jliu99) & Sunwoo Kang (swkang73)
 
