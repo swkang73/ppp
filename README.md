@@ -15,8 +15,17 @@ Recommend using conda to set up environment with environment.yaml
 SAGE: python baseline.py
 GCN: python baseline_gcn.py
 
-## Visualization
+## Visualizing the Network
 python vis_data.py 
 
-## Embedding 
+## Visualizating Embeddings 
 check our colab repository (contact swkang73 for access)
+
+## Make 4-hop Neighborhood Hypergraph
+python make_hypergraph.py
+
+## Run HyperGCN
+python run_hypergcn.py
+
+## Run HyperSAGE
+python run_hypersage.py
